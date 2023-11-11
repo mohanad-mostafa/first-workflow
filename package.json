@@ -1,0 +1,19 @@
+{
+  "name": "first-workflow",
+  "version": "1.0.0",
+  "description": "a repo to test github work flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohanad-mostafa/first-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohanad-mostafa/first-workflow/issues"
+  },
+  "homepage": "https://github.com/mohanad-mostafa/first-workflow#readme"
+}
